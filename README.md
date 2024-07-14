@@ -12,7 +12,7 @@
 <h2 style="color:Maroon; font-size: 30px; font-family: 'Times New Roman', Times, serif;">Technology Stack</h2>
 <p>The technology stack used for this web application includes:</p>
 <ul>
-    <li>HTML: Markup language for structuring the web page.</li>
-    <li>CSS: Styling language for enhancing the visual appearance.</li>
-    <li>JavaScript: Programming language for adding interactivity and functionality.</li>
+    <strong><li>HTML5</li></strong>
+    <li>CSS</li>
+    <li>JavaScript</li>
 </ul>
