@@ -12,7 +12,7 @@
 <h2 style="color:Maroon; font-size: 30px; font-family: 'Times New Roman', Times, serif;">Technology Stack</h2>
 <p>The technology stack used for this web application includes:</p>
 <ul>
-    <strong><li>HTML5</li></strong>
-    <li>CSS</li>
-    <li>JavaScript</li>
+    <strong font-family: 'Times New Roman', Times, serif;><li>HTML5</li></strong>
+    <strong font-family: 'Times New Roman', Times, serif;><li>CSS</li></strong>
+    <strong font-family: 'Times New Roman', Times, serif;><li>JavaScript</li></strong>
 </ul>
